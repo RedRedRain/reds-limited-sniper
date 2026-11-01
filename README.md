@@ -20,8 +20,10 @@ We also welcome enquiries about collaboration, sponsorship and funding through p
 - Automatic limited sniping
 - Auto reselling
 - Automated trading
+- Multi-account support
 - Custom item value system
-- Live purchase alerts and item insights
+- Real-time Discord purchase alerts
+- Deal analytics and sell-speed insights
 
 ## See the project in action
 
