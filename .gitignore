@@ -1,0 +1,7 @@
+# Public information repository: explicitly allow only approved files.
+*
+!.gitignore
+!README.md
+!assets/
+assets/*
+!assets/rls-logo.png
